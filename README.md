@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dulanjana Seneviratne</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cdulanjana&label=Profile%20views&color=0e75b6&style=flat" alt="cdulanjana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cdulanjanas&label=Profile%20views&color=0e75b6&style=flat" alt="cdulanjanas" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,14 +9,14 @@
 <h3 align="left">Activity:</h3>
 
 <div align="center">
-  <a href="https://github.com/cduanjana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdulanjana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdulanjana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+  <a href="https://github.com/cduanjanas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdulanjanas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdulanjanas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/cduanjana">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdulanjana&&theme=tokyonight" alt="RResabala2015" />
+  <a href="https://github.com/cduanjanas">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdulanjanas&&theme=tokyonight" alt="RResabala2015" />
   </a>
 </p>
 
